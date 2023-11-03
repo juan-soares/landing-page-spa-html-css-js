@@ -1,4 +1,4 @@
-# 📌 LANDING PAGE: PETSHOP (HTML, CSS, JS)
+# 📌 LANDING PAGE: SPA (HTML, CSS, JS)
 
 ![Badge_Status](https://img.shields.io/badge/STATUS-IN-PROGRESS-yellow)
 ![Badge_Versao](https://img.shields.io/badge/VERSION-1.0-black)
