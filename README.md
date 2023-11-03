@@ -14,7 +14,7 @@
 * :octocat: [Authors](#authors)
 
 ## Description
-
+Landing page to a fictional SPA, to practice HTML, CSS and JS concepts, such as SEO, selectors.
 
 ## Demo
 ![](demo/demo.gif)
