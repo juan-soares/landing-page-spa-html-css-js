@@ -1,16 +1,16 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Landing Page SPA (HTML, CSS, JS)",
+  "description": "Landing page to a fictional SPA, to practice HTML, CSS and JS concepts, such as SEO, selectors.",
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/.git"
+    "url": "https://github.com/juan-soares/project-landing-page-spa-html-css-js.git"
   },
   "keywords": [],
   "author": "Juan Carlos Soares",
   "license": "ISC",
-  "homepage": "https://github.com/monatheoctocat/my_package"
+  "homepage": ""
 }
