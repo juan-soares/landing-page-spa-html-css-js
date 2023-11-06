@@ -12,7 +12,7 @@
 .header__link {
     padding: 32px;
 
-    color: #FFFFFF;
+    color: var(--text-color-white);
     font-weight: 600;
     text-transform: uppercase;
 }
