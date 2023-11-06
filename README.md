@@ -14,7 +14,7 @@
 * :octocat: [Authors](#authors)
 
 ## Description
-Landing page to a fictional SPA, to practice HTML, CSS and JS concepts, such as SEO, selectors.
+Landing page to a fictional SPA, to practice HTML, CSS and JS concepts, such as SEO, variables, selectors.
 
 ## Demo
 ![](demo/demo.gif)
@@ -23,8 +23,8 @@ Landing page to a fictional SPA, to practice HTML, CSS and JS concepts, such as 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" height="60px"/>
 
 ## Features
-*
-*
+* BEM methodology,
+* CSS variables;
 *
 
 ## How to use
