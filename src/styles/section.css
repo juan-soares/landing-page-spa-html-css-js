@@ -1,11 +1,37 @@
+.section {
+    display: flex;
+    align-items: center;
+}
+
 .section--home {
     position: relative;
 
     padding: 24px 80px 128px 80px;
 
-    display: flex;
-    align-items: center;
     gap: 32px;
+}
+
+.section--spaces, .section--faq {
+    gap: 64px;
+}
+
+.section--store {
+    flex-direction: column;
+}
+
+.section--store img {
+    margin: 64px auto;
+}
+
+.section--store p {
+    margin: 0 auto;
+    max-width: 950px;
+
+    text-align: center;
+}
+
+.section--spaces, .section--store, .section--faq {
+    padding: 64px 80px;
 }
 
 .section__paragraph {
@@ -17,14 +43,13 @@
 .section__button {
     background-color: var(--primary-color);
     border-radius: 8px;
-    padding: 20px;
+    padding: 16px 32px;
     
     color: var(--text-color-white);
 }
 
 .section__button--transparent {
     background-color: transparent;
-    padding: 20px 32px;
 
     color: var(--primary-color);
     text-underline-offset: 4px;
@@ -32,4 +57,17 @@
 
 .section__button, .section__button--transparent {
     text-transform: capitalize;
+}
+
+.section__decorative-background {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.section__service {
+    margin-bottom: 16px;
+    margin-left: 32px;
 }
