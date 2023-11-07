@@ -2,11 +2,13 @@
 @import url(header.css);
 @import url(section.css);
 @import url(question.css);
+@import url(footer.css);
 
 :root {
     --text-color-black: #263138;
     --text-color-white: #ffffff;
     --primary-color: #FF9A6C;
+    --secondary-color: rgba(255, 152, 108, 0.25);
 }
 
 * {

@@ -1,0 +1,30 @@
+.footer {
+    background-color: var(--secondary-color);
+}
+
+.footer img, .footer__title {
+    margin-bottom: 24px;
+
+    font-weight: 600;
+}
+
+.footer__top {
+    padding: 64px 80px;
+
+    display: flex;
+    gap: 80px;
+    justify-content: space-between;
+}
+
+.footer__link {
+    color: var(--text-color-black);
+    text-transform: capitalize;
+
+    display: block;
+    margin-bottom: 16px;
+    max-width: 350px;
+}
+
+.footer__link--soft {
+    color: var(--primary-color);
+}
