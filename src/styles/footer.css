@@ -22,9 +22,24 @@
 
     display: block;
     margin-bottom: 16px;
-    max-width: 350px;
 }
 
 .footer__link--soft {
     color: var(--primary-color);
+    margin-bottom: 16px;
+}
+
+.footer__contact {
+    margin-bottom: 16px;
+    max-width: 350px;
+}
+
+.footer__copyright {
+    padding: 24px;
+
+    background-color: var(--text-color-black);
+
+    color: white;
+    font-size: 14px;
+    text-align: center;
 }
