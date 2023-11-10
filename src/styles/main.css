@@ -3,7 +3,7 @@
 @import url(section.css);
 @import url(question.css);
 @import url(footer.css);
-@import url(glassBorder.css);
+@import url(glass-border.css);
 
 :root {
     --text-color-black: #263138;
