@@ -26,6 +26,7 @@ Landing page to a fictional SPA, to practice HTML, CSS and JS concepts, such as 
 * BEM methodology,
 * CSS variables;
 * Scroll to section;
+* Drop down.
 
 ## How to use
 - `Step 1`: Download the project's files.

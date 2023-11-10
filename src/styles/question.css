@@ -16,12 +16,22 @@
     right: 24px;
 }
 
-.question p {
+.question .section__paragraph {
     border-bottom: 1px solid var(--primary-color);
     border-left: 1px solid var(--primary-color);
     border-right: 1px solid var(--primary-color);
     border-radius: 0 0 8px 8px;
 
     margin-top: -8px;
+    padding: 0 24px;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+.question.question--active p {
     padding: 24px;
+    height: fit-content;
+    opacity: 1;
 }
