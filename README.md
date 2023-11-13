@@ -1,6 +1,6 @@
 # 📌 LANDING PAGE: SPA (HTML, CSS, JS)
 
-![Badge_Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-yellow)
+![Badge_Status](https://img.shields.io/badge/STATUS-FINISHED-green)
 ![Badge_Versao](https://img.shields.io/badge/VERSION-1.0-black)
 ![Badge_Data](https://img.shields.io/badge/RELEASE-OCT,2023-blue)
 
