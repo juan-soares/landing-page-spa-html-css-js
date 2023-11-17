@@ -82,7 +82,9 @@
     .section img:not(.section__decorative-background, .question img) {
         display: none;
     }
+}
 
+@media (max-width: 1233px) {
     .section__button {
         display: block;
     }
