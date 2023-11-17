@@ -16,3 +16,10 @@
     font-weight: 600;
     text-transform: uppercase;
 }
+
+@media (max-width: 480px) {
+    .header__link {
+        display: block;
+        padding: 28px 0;
+    }
+}

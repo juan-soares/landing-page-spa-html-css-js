@@ -77,3 +77,13 @@
     margin-bottom: 16px;
     margin-left: 32px;
 }
+
+@media (max-width: 480px) {
+    .section img:not(.section__decorative-background, .question img) {
+        display: none;
+    }
+
+    .section__button {
+        display: block;
+    }
+}
