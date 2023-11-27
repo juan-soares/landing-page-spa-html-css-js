@@ -26,7 +26,8 @@ Landing page of a fictional SPA, to practice HTML, CSS and JS concepts, such as 
 * BEM methodology,
 * CSS variables;
 * Scroll to section;
-* Collapsible items.
+* Collapsible items;
+* Responsive layout.
 
 ## How to use
 - `Step 1`: Download the project's files.
